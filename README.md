@@ -17,10 +17,10 @@ Descripción:
 
 
 - **Practicas**
-	- [Toma de requerimientos](./"1.Toma de requerimientos.pdf")
-    	- [Crea tu buyer persona](./"2.Buyer persona.pdf")
-	- [Publico objetivo](./"3.Publico objetivo.jpg")
-	- [Crea tu primer Wireframe UX](./"4.Wireframe UX.pdf")
+	- [Toma de requerimientos](https://github.com/herr-code/LaunchXMFPractica1/blob/main/1.Toma%20de%20requerimientos.pdf)
+    	- [Crea tu buyer persona](https://github.com/herr-code/LaunchXMFPractica1/blob/main/2.Buyer%20persona.pdf)
+	- [Publico objetivo](https://github.com/herr-code/LaunchXMFPractica1/blob/main/3.Publico%20objetivo.jpg)
+	- [Crea tu primer Wireframe UX](https://github.com/herr-code/LaunchXMFPractica1/blob/main/4.Wireframe%20UX.pdf)
 	- [Ahora el UI](./5.AbogabotUI.pdf)
 
 Para entrar a los contenidos solo tienes que dar click en el título.
