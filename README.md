@@ -18,7 +18,7 @@ Descripción:
 
 - **Practicas**
 	- [Toma de requerimientos](https://github.com/herr-code/LaunchXMFPractica1/blob/main/1.Toma%20de%20requerimientos.pdf)
-    	- [Crea tu buyer persona](https://github.com/herr-code/LaunchXMFPractica1/blob/main/2.Buyer%20persona.pdf)
+    - [Crea tu buyer persona](https://github.com/herr-code/LaunchXMFPractica1/blob/main/2.Buyer%20persona.pdf)
 	- [Publico objetivo](https://github.com/herr-code/LaunchXMFPractica1/blob/main/3.Publico%20objetivo.jpg)
 	- [Crea tu primer Wireframe UX](https://github.com/herr-code/LaunchXMFPractica1/blob/main/4.Wireframe%20UX.pdf)
 	- [Ahora el UI](./5.AbogabotUI.pdf)
